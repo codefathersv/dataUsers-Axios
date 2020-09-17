@@ -1,4 +1,4 @@
-# Datos de una API para hacer pruebas con JavaScript & AJAX
+# Datos de una API para pruebas en JavaScript & AJAX
 
 Se llena una tabla con los datos fake de la API JSONPlaceholder, se hace la peticion en AJAX con la libreria Axios
 
